@@ -1,4 +1,4 @@
-## Desafio de Projeto Recriando Tela de Login do Instagram 🚀🚀🚀
+## Desafio de Projeto | Recriando Tela de Login do Instagram 🚀🚀🚀
 
 ### DIO ✔    Santander Bootcamp Fullstack Developer ✔
 
